@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestUser" time="17.245" tests="7" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestUser" time="16.847" tests="7" errors="0" skipped="0" failures="1">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -13,7 +13,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="BR"/>
     <property name="sun.boot.library.path" value="/home/danillo/.sdkman/candidates/java/17.0.9-tem/lib"/>
-    <property name="sun.java.command" value="/home/danillo/Dropbox/Estudos/Teste de Software/Iterasys/Formacao em Teste de Software/Lista de Exercícios/Lista 08 - Rest-assured/petstore142/target/surefire/surefirebooter-20250829004422106_3.jar /home/danillo/Dropbox/Estudos/Teste de Software/Iterasys/Formacao em Teste de Software/Lista de Exercícios/Lista 08 - Rest-assured/petstore142/target/surefire 2025-08-29T00-44-19_762-jvmRun1 surefire-20250829004422106_1tmp surefire_0-20250829004422106_2tmp"/>
+    <property name="sun.java.command" value="/home/danillo/Dropbox/Estudos/Teste de Software/Iterasys/Formacao em Teste de Software/Lista de Exercícios/Lista 08 - Rest-assured/petstore142/target/surefire/surefirebooter-20250829004906922_3.jar /home/danillo/Dropbox/Estudos/Teste de Software/Iterasys/Formacao em Teste de Software/Lista de Exercícios/Lista 08 - Rest-assured/petstore142/target/surefire 2025-08-29T00-49-06_752-jvmRun1 surefire-20250829004906922_1tmp surefire_0-20250829004906922_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/danillo/Dropbox/Estudos/Teste de Software/Iterasys/Formacao em Teste de Software/Lista de Exercícios/Lista 08 - Rest-assured/petstore142/target/test-classes:/home/danillo/Dropbox/Estudos/Teste de Software/Iterasys/Formacao em Teste de Software/Lista de Exercícios/Lista 08 - Rest-assured/petstore142/target/classes:/home/danillo/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.13.0-M3/junit-jupiter-api-5.13.0-M3.jar:/home/danillo/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/home/danillo/.m2/repository/org/junit/platform/junit-platform-commons/1.13.0-M3/junit-platform-commons-1.13.0-M3.jar:/home/danillo/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/danillo/.m2/repository/org/hamcrest/hamcrest/3.0/hamcrest-3.0.jar:/home/danillo/.m2/repository/io/rest-assured/rest-assured/5.5.0/rest-assured-5.5.0.jar:/home/danillo/.m2/repository/org/apache/groovy/groovy/4.0.22/groovy-4.0.22.jar:/home/danillo/.m2/repository/org/apache/groovy/groovy-xml/4.0.22/groovy-xml-4.0.22.jar:/home/danillo/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/home/danillo/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/home/danillo/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/danillo/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/home/danillo/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/home/danillo/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/home/danillo/.m2/repository/io/rest-assured/json-path/5.5.0/json-path-5.5.0.jar:/home/danillo/.m2/repository/org/apache/groovy/groovy-json/4.0.22/groovy-json-4.0.22.jar:/home/danillo/.m2/repository/io/rest-assured/rest-assured-common/5.5.0/rest-assured-common-5.5.0.jar:/home/danillo/.m2/repository/io/rest-assured/xml-path/5.5.0/xml-path-5.5.0.jar:/home/danillo/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar:/home/danillo/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.13.1/junit-jupiter-params-5.13.1.jar:/home/danillo/.m2/repository/com/google/code/gson/gson/2.13.1/gson-2.13.1.jar:/home/danillo/.m2/repository/com/google/errorprone/error_prone_annotations/2.38.0/error_prone_annotations-2.38.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -28,7 +28,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/home/danillo/Dropbox/Estudos/Teste de Software/Iterasys/Formacao em Teste de Software/Lista de Exercícios/Lista 08 - Rest-assured/petstore142/target/surefire/surefirebooter-20250829004422106_3.jar"/>
+    <property name="surefire.real.class.path" value="/home/danillo/Dropbox/Estudos/Teste de Software/Iterasys/Formacao em Teste de Software/Lista de Exercícios/Lista 08 - Rest-assured/petstore142/target/surefire/surefirebooter-20250829004906922_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.9+9"/>
     <property name="user.name" value="danillo"/>
@@ -53,7 +53,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testPostUser" classname="TestUser" time="1.724">
+  <testcase name="testPostUser" classname="TestUser" time="1.528">
     <system-out><![CDATA[Request method:	POST
 Request URI:	https://petstore.swagger.io/v2/user
 Proxy:			<none>
@@ -77,7 +77,7 @@ Body:
     "userStatus": 1
 }
 HTTP/1.1 200 OK
-Date: Fri, 29 Aug 2025 03:44:33 GMT
+Date: Fri, 29 Aug 2025 03:49:20 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -93,112 +93,7 @@ Server: Jetty(9.2.9.v20150224)
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testGetUser" classname="TestUser" time="1.671">
-    <system-out><![CDATA[Request method:	GET
-Request URI:	https://petstore.swagger.io/v2/user/danillo
-Proxy:			<none>
-Request params:	<none>
-Query params:	<none>
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-HTTP/1.1 200 OK
-Date: Fri, 29 Aug 2025 03:44:34 GMT
-Content-Type: application/json
-Transfer-Encoding: chunked
-Connection: keep-alive
-Access-Control-Allow-Origin: *
-Access-Control-Allow-Methods: GET, POST, DELETE, PUT
-Access-Control-Allow-Headers: Content-Type, api_key, Authorization
-Server: Jetty(9.2.9.v20150224)
-
-{
-    "id": 10,
-    "username": "danillo",
-    "firstName": "Danillo",
-    "lastName": "Silva",
-    "email": "danillo@email.com",
-    "password": "honeypot",
-    "phone": "123456789",
-    "userStatus": 1
-}
-]]></system-out>
-  </testcase>
-  <testcase name="testPutUser" classname="TestUser" time="1.783">
-    <system-out><![CDATA[Request method:	PUT
-Request URI:	https://petstore.swagger.io/v2/user/danillo
-Proxy:			<none>
-Request params:	<none>
-Query params:	<none>
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:
-{
-    "id": 10,
-    "username": "danillo",
-    "firstName": "Danillo",
-    "lastName": "Silva",
-    "email": "danillo@email.com",
-    "password": "honeypot",
-    "phone": "987654321",
-    "userStatus": 1
-}
-HTTP/1.1 200 OK
-Date: Fri, 29 Aug 2025 03:44:36 GMT
-Content-Type: application/json
-Transfer-Encoding: chunked
-Connection: keep-alive
-Access-Control-Allow-Origin: *
-Access-Control-Allow-Methods: GET, POST, DELETE, PUT
-Access-Control-Allow-Headers: Content-Type, api_key, Authorization
-Server: Jetty(9.2.9.v20150224)
-
-{
-    "code": 200,
-    "type": "unknown",
-    "message": "10"
-}
-]]></system-out>
-  </testcase>
-  <testcase name="testDeleteUser" classname="TestUser" time="1.536">
-    <system-out><![CDATA[Request method:	DELETE
-Request URI:	https://petstore.swagger.io/v2/user/danillo
-Proxy:			<none>
-Request params:	<none>
-Query params:	<none>
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-HTTP/1.1 200 OK
-Date: Fri, 29 Aug 2025 03:44:38 GMT
-Content-Type: application/json
-Transfer-Encoding: chunked
-Connection: keep-alive
-Access-Control-Allow-Origin: *
-Access-Control-Allow-Methods: GET, POST, DELETE, PUT
-Access-Control-Allow-Headers: Content-Type, api_key, Authorization
-Server: Jetty(9.2.9.v20150224)
-
-{
-    "code": 200,
-    "type": "unknown",
-    "message": "danillo"
-}
-]]></system-out>
-  </testcase>
-  <testcase name="testPostUserDataDriven(int, String, String, String, String, String, String, int)[1]" classname="TestUser" time="3.67">
+  <testcase name="testGetUser" classname="TestUser" time="1.69">
     <failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;404&gt;.&#10;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: 
 1 expectation failed.
 Expected status code <200> but was <404>.
@@ -228,55 +123,111 @@ Expected status code <200> but was <404>.
 	at io.restassured.specification.ResponseSpecification$statusCode$0.callCurrent(Unknown Source)
 	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:143)
 	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
-	at TestUser.testPostUserDataDriven(TestUser.java:165)
+	at TestUser.testGetUser(TestUser.java:65)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at java.base/java.util.Optional.ifPresent(Optional.java:178)
-	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
-	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
-	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
-	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
-	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
-	at java.base/java.util.stream.SliceOps$1$1.accept(SliceOps.java:200)
-	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
-	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845)
-	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
-	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
-	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
-	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
-	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276)
-	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
-	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
-	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
-	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
-	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
-	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
-	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
-	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276)
-	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
-	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
-	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
-	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
-	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
-	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276)
-	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
-	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
-	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
-	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
-	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
-	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
-	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
-	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
 ]]></failure>
+    <system-out><![CDATA[Request method:	GET
+Request URI:	https://petstore.swagger.io/v2/user/danillo
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 404 Not Found
+Date: Fri, 29 Aug 2025 03:49:21 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+Server: Jetty(9.2.9.v20150224)
+
+{
+    "code": 1,
+    "type": "error",
+    "message": "User not found"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="testPutUser" classname="TestUser" time="1.589">
+    <system-out><![CDATA[Request method:	PUT
+Request URI:	https://petstore.swagger.io/v2/user/danillo
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "id": 10,
+    "username": "danillo",
+    "firstName": "Danillo",
+    "lastName": "Silva",
+    "email": "danillo@email.com",
+    "password": "honeypot",
+    "phone": "987654321",
+    "userStatus": 1
+}
+HTTP/1.1 200 OK
+Date: Fri, 29 Aug 2025 03:49:23 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+Server: Jetty(9.2.9.v20150224)
+
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "10"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="testDeleteUser" classname="TestUser" time="1.914">
+    <system-out><![CDATA[Request method:	DELETE
+Request URI:	https://petstore.swagger.io/v2/user/danillo
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Fri, 29 Aug 2025 03:49:25 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+Server: Jetty(9.2.9.v20150224)
+
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "danillo"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="testPostUserDataDriven(int, String, String, String, String, String, String, int)[1]" classname="TestUser" time="3.423">
     <system-out><![CDATA[Request method:	POST
 Request URI:	https://petstore.swagger.io/v2/user
 Proxy:			<none>
@@ -300,7 +251,7 @@ Body:
     "userStatus": 1
 }
 HTTP/1.1 200 OK
-Date: Fri, 29 Aug 2025 03:44:40 GMT
+Date: Fri, 29 Aug 2025 03:49:26 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -326,8 +277,8 @@ Headers:		Accept=*/*
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
-HTTP/1.1 404 Not Found
-Date: Fri, 29 Aug 2025 03:44:41 GMT
+HTTP/1.1 200 OK
+Date: Fri, 29 Aug 2025 03:49:28 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -337,13 +288,18 @@ Access-Control-Allow-Headers: Content-Type, api_key, Authorization
 Server: Jetty(9.2.9.v20150224)
 
 {
-    "code": 1,
-    "type": "error",
-    "message": "User not found"
+    "id": 11,
+    "username": "joao",
+    "firstName": "Joao",
+    "lastName": "Souza",
+    "email": "joao@email.com",
+    "password": "senha123",
+    "phone": "111111111",
+    "userStatus": 1
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testPostUserDataDriven(int, String, String, String, String, String, String, int)[2]" classname="TestUser" time="3.581">
+  <testcase name="testPostUserDataDriven(int, String, String, String, String, String, String, int)[2]" classname="TestUser" time="3.354">
     <system-out><![CDATA[Request method:	POST
 Request URI:	https://petstore.swagger.io/v2/user
 Proxy:			<none>
@@ -367,7 +323,7 @@ Body:
     "userStatus": 1
 }
 HTTP/1.1 200 OK
-Date: Fri, 29 Aug 2025 03:44:43 GMT
+Date: Fri, 29 Aug 2025 03:49:30 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -394,7 +350,7 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Fri, 29 Aug 2025 03:44:45 GMT
+Date: Fri, 29 Aug 2025 03:49:32 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -415,7 +371,7 @@ Server: Jetty(9.2.9.v20150224)
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testPostUserDataDriven(int, String, String, String, String, String, String, int)[3]" classname="TestUser" time="3.26">
+  <testcase name="testPostUserDataDriven(int, String, String, String, String, String, String, int)[3]" classname="TestUser" time="3.328">
     <system-out><![CDATA[Request method:	POST
 Request URI:	https://petstore.swagger.io/v2/user
 Proxy:			<none>
@@ -439,7 +395,7 @@ Body:
     "userStatus": 1
 }
 HTTP/1.1 200 OK
-Date: Fri, 29 Aug 2025 03:44:47 GMT
+Date: Fri, 29 Aug 2025 03:49:33 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -466,7 +422,7 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Fri, 29 Aug 2025 03:44:48 GMT
+Date: Fri, 29 Aug 2025 03:49:35 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
